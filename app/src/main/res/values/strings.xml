@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Pythagorean Theorem</string>
+    <string name="title">Вычислить С</string>
+    <string name="result">Результат:&#160;</string>
+    <string name="inputA">Введите A</string>
+    <string name="inputB">Введите B</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="input_error">Поле должно быть заполнено</string>
 </resources>
